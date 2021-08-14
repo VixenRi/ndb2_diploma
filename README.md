@@ -1,1 +1,1 @@
-# ndb2_diploma
+# diploma
